@@ -1,0 +1,39 @@
+.a {
+    height: 45vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 3px solid #224AB9;
+}
+
+.a-wrapper {
+    margin: 3vh;
+    height: 100%;
+    width: 60vw;
+}
+
+.a-title {
+    margin: 1vh;
+    font-size: 350%;
+    color: #224AB9;
+}
+
+.a-p {
+    font-size: 160%;
+    text-align: left;
+    margin-bottom: 1%;
+}
+
+.a-sig {
+    text-align: left;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.a-redText {
+    color: #EF3A40;
+}
+
+.a-blueText {
+    color: #224AB9;
+}

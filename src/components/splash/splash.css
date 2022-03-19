@@ -1,0 +1,39 @@
+.s {
+    height: 45vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 3px solid #224AB9;
+}
+
+.s-wrapper {
+    margin: 3vh 0;
+    height: 100%;
+}
+
+.s-ms, .s-qs {
+    padding: 0 15%;
+    font-size: 150%;
+}
+
+.s-ms-title, .s-qs-title {
+    margin: 1vh;
+    font-size: 250%;
+    color: #224AB9;
+}
+
+.s-p {
+    margin-bottom: 5%;
+}
+
+.s-qs-list {
+    list-style: none;
+    font-weight: bold;
+    text-align: left;
+}
+
+.s-qs-item::before {
+    content: '✓ ';
+    color: green;
+    font-size: xx-large;
+}

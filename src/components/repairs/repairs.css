@@ -1,0 +1,25 @@
+.r {
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 3px solid #224AB9;
+}
+
+.r-wrapper {
+    width: 50vw;
+}
+
+.r-title {
+    font-size: 400%;
+    color: #224AB9;
+}
+
+.r-p {
+    font-size: 180%;
+    font-weight: bold;
+}
+
+.redText {
+    color: #EF3A40;
+}

@@ -1,0 +1,31 @@
+.w {
+  height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 3px solid #224ab9;
+}
+
+.w-wrapper {
+  margin: 3vh;
+  height: 100%;
+  width: 60vw;
+}
+
+.w-title {
+  margin: 1vh;
+  font-size: 350%;
+  color: #224ab9;
+}
+
+.w-p {
+  padding: 0 15%;
+  font-size: 200%;
+  margin-bottom: 5%;
+  color: #EF3A40;
+}
+
+.w-pn {
+    font-size: 125%;
+    font-weight: bold;
+}

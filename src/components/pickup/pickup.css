@@ -1,0 +1,32 @@
+.pu {
+    height: 48vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 3px solid #224AB9;
+}
+
+.pu-wrapper {
+    margin: 3vh;
+    height: 100%;
+    width: 60vw;
+}
+
+.pu-title {
+    margin: 1vh;
+    font-size: 350%;
+    color: #224AB9;
+}
+
+.pu-item {
+    font-size: 200%;
+    text-align: left;
+    list-style: none;
+    color: #EF3A40;
+}
+
+.pu-p {
+    font-size: 125%;
+    text-align: left;
+    margin-bottom: 5%;
+}

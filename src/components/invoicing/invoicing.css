@@ -1,0 +1,24 @@
+.i {
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.i-wrapper {
+    margin: 3vh;
+    height: 100%;
+    width: 90vw;
+}
+
+.i-title {
+    margin: 1vh;
+    font-size: 275%;
+    color: #224AB9;
+}
+
+.i-p {
+    padding: 0 15%;
+    font-size: 150%;
+    margin-bottom: 5%;
+}
