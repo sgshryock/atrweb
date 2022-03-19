@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/atrweb/static/css/main.7487acd1.css",
+    "main.js": "/atrweb/static/js/main.471383a0.js",
+    "static/js/787.91ac6b01.chunk.js": "/atrweb/static/js/787.91ac6b01.chunk.js",
+    "static/media/atrm.png": "/atrweb/static/media/atrm.2524e0f6e050f1d7f9be.png",
+    "static/media/repair.jpeg": "/atrweb/static/media/repair.098ad94ae9505536764d.jpeg",
+    "index.html": "/atrweb/index.html",
+    "main.7487acd1.css.map": "/atrweb/static/css/main.7487acd1.css.map",
+    "main.471383a0.js.map": "/atrweb/static/js/main.471383a0.js.map",
+    "787.91ac6b01.chunk.js.map": "/atrweb/static/js/787.91ac6b01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7487acd1.css",
+    "static/js/main.471383a0.js"
+  ]
+}
