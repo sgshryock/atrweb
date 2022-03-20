@@ -10,7 +10,7 @@ const About = () => {
           <span className="a-redText">ATR Air Tools Repair LLC&nbsp;</span>
           is a recently formed, family owned & operated business, located in
           Silver Springs Florida. We repair all brands and types of handheld
-          pneumatic (Air ) tools. We do not have a store front; instead, ATR
+          pneumatic (Air) tools. We do not have a store front; instead, ATR
           picks up and returns tools at Customer locations within our delivery
           range, free of charge. All tools needing repair are inspected at our
           site, after which a free quote is sent to the Customer.
