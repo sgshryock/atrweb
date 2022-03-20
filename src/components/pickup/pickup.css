@@ -33,7 +33,32 @@
 
 @media screen and (max-width: 480px) {
     .pu {
-        flex-direction: column;
-        display: none;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .pu-wrapper {
+        width: 100%;
+        margin: 0;
+        padding: 0 6vw;
+    }
+
+    .pu-title {
+        font-size: 1.5em;
+    }
+
+    .pu-list {
+        margin: 0;
+        padding: 0;
+    }
+
+    .pu-item {
+        font-size: 1em;
+    }
+
+    .pu-p {
+        font-size: .85em;
+        text-align: justify;
     }
 }

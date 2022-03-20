@@ -20,7 +20,7 @@ const About = () => {
           our Customers. We look forward to offering our services to meet your
           business needs.
         </p>
-        <h2 className="a-sig"><span className="a-blueText">Victor J. Payette Jr.</span></h2>
+        <h2 className="a-sig"><span className="a-blueText">- Victor J. Payette Jr.</span></h2>
       </div>
     </div>
   );
