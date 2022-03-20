@@ -29,3 +29,11 @@
     font-size: 125%;
     font-weight: bold;
 }
+
+@media screen and (max-width: 480px) {
+  .w {
+      flex-direction: column;
+      display: none;
+  }
+
+}

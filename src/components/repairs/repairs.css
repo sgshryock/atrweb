@@ -23,3 +23,25 @@
 .redText {
     color: #EF3A40;
 }
+
+@media screen and (max-width: 480px) {
+    .r {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .r-wrapper {
+        width: 100%;
+        padding: 0 6vw;
+    }
+
+    .r-title {
+        font-size: 1.5em;
+    }
+
+    .r-p {
+        font-size: .85em;
+        text-align: justify;
+    }
+}

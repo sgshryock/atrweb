@@ -43,3 +43,20 @@
     height: 100%;
     object-fit: contain;
 }
+
+@media screen and (max-width: 480px) {
+    .h {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .h-left {
+        display: none;
+    }
+
+    .h-right {
+        height: 100%;
+        padding: 2vh 3vw;
+    }
+}

@@ -53,3 +53,10 @@
     text-align: center;
     color: #EF3A40;
 }
+
+@media screen and (max-width: 480px) {
+    .p {
+        flex-direction: column;
+        display: none;
+    }
+}

@@ -37,3 +37,42 @@
     color: green;
     font-size: xx-large;
 }
+
+@media screen and (max-width: 480px) {
+    .s {
+        height: 100%;
+    }
+
+    .s-ms, .s-qs {
+        padding: 0 5vw;
+    }
+
+    .s-qs {
+        margin-top: 3vh;
+    }
+
+    .s-ms-title, .s-qs-title {
+        font-size: 1em;
+    }
+
+    .s-ms-p {
+        margin: 0;
+        padding: 0;
+        font-size: .60em;
+        text-align: justify;
+    }
+
+    .s-qs-list {
+        margin: 0;
+        padding: 0;
+        font-size: .55em;
+    }
+
+    .s-qs-item {
+        margin: .6vh 0;
+    }
+
+    .s-qs-item::before {
+        font-size: medium;
+    }
+}
