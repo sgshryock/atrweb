@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import Repair from '../../img/repair.jpeg'
-import Info from '../../img/atrm.png'
+import Info from '../../img/ATR_info.png'
 
 const Header = () => {
   return (
