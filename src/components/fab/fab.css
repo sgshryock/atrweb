@@ -1,0 +1,12 @@
+.box {
+    margin: 0px;
+    top: auto;
+    right: 80px;
+    bottom: 50px;
+    left: auto;
+    position: fixed;
+}
+
+.classes.fab {
+    color: #224AB9;
+}

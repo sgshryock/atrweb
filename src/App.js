@@ -7,10 +7,12 @@ import Invoicing from './components/invoicing/Invoicing';
 import Pickup from './components/pickup/Pickup';
 import Warranty from './components/warranty/Warranty';
 import About from './components/about/About';
+import Fab from './components/fab/Fab';
 
 function App() {
   return (
     <div className="App">
+      <Fab />
       <Header />
       <Splash />
       <Repairs />
@@ -23,4 +25,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
