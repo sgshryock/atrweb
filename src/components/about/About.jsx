@@ -7,7 +7,7 @@ const About = () => {
       <div className="a-wrapper">
         <h2 className="a-title">About Us</h2>
         <p className="a-p">
-          <span className="a-redText">ATR Air Tools Repair LLC&nbsp;</span>
+          <span className="a-redText"><strong>ATR Air Tools Repair LLC&nbsp;</strong></span>
           is a recently formed, family owned & operated business, located in
           Silver Springs Florida. We repair all brands and types of handheld
           pneumatic (Air) tools. We do not have a store front; instead, ATR
