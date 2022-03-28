@@ -20,7 +20,7 @@ const Pricing = () => {
                 Example: "Broken throttle lever on the die grinder."
                 <p className="p-c-list-p2">
                   *ATR assumes the requested quote and repair are for the
-                  specified issue only. No futher tear down of the ginder would
+                  specified issue only. No further tear down of the grinder would
                   be performed. If any other abnormalities during the quote or
                   repair process are identified, ATR would notify the customer
                   for decisions going forward.
@@ -55,7 +55,7 @@ const Pricing = () => {
             missing, bad collet on grinder etc."
           </p>
           <p className="p-l-p">
-            ATR tries its best to offer competive rates for the area. Current
+            ATR tries its best to offer competitive rates for the area. Current
             local competitors' hourly rates for air tool repairs are $65-$85 an
             hour.
           </p>

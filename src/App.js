@@ -16,9 +16,9 @@ function App() {
       <Header />
       <Splash />
       <Repairs />
-      <Pricing />
-      <Invoicing />
+      {/* <Pricing /> */}
       <Pickup />
+      <Invoicing />
       <Warranty />
       <About />
     </div>
