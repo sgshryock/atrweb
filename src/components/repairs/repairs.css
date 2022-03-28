@@ -1,5 +1,5 @@
 .r {
-    height: 35vh;
+    height: 40vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -7,7 +7,7 @@
 }
 
 .r-wrapper {
-    width: 50vw;
+    width: 68vw;
 }
 
 .r-title {
@@ -22,6 +22,10 @@
 
 .redText {
     color: #EF3A40;
+}
+
+.r-a {
+    text-decoration: none;
 }
 
 @media screen and (max-width: 480px) {

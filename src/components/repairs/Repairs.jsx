@@ -10,12 +10,12 @@ const Repairs = () => {
                 If your business is out of our service area you can send 
                 tools for estimates or repairs through freight carriers 
                 of your choice. You may contact us at 
-                <span className='redText'> 352-207-5716 </span> 
+                <a href="tel: 3522075716" className="r-a"><span className='redText'> 352-207-5716 </span></a>
                 to establish if your location is within our service area. 
-                All information applies which is on the 
-                <span className='redText'> Info / Pricing </span>below, 
-                with the additional charge for return freight to your 
-                business location.
+                <br /><br />
+                All information applies from the  
+                <span className='redText'> Pricing and Invoicing </span> 
+                section below; additionally, charges for return freight to your business location will be required.
             </p>
         </div>
     </div>
