@@ -1,25 +1,29 @@
 .pu {
-    height: 48vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    /* margin: 0;
+    padding: 0; */
+    height: 100%;
     border-top: 3px solid #224AB9;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
 }
 
 .pu-wrapper {
-    margin: 3vh;
-    height: 100%;
-    width: 60vw;
+    padding: 0 5vw;
 }
 
 .pu-title {
-    margin: 1vh;
-    font-size: 350%;
+    font-size: 1.5em;
     color: #224AB9;
 }
 
+.pu-list {
+    margin: 0;
+    padding: 0;
+}
+
 .pu-item {
-    font-size: 200%;
+    font-size: 1em;
     font-weight: bold;
     text-align: left;
     list-style: none;
@@ -27,39 +31,7 @@
 }
 
 .pu-p {
-    font-size: 125%;
+    font-size: .9em;
     text-align: left;
-    margin-bottom: 5%;
-}
-
-@media screen and (max-width: 480px) {
-    .pu {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-    }
-
-    .pu-wrapper {
-        width: 100%;
-        margin: 0;
-        padding: 0 6vw;
-    }
-
-    .pu-title {
-        font-size: 1.5em;
-    }
-
-    .pu-list {
-        margin: 0;
-        padding: 0;
-    }
-
-    .pu-item {
-        font-size: 1em;
-    }
-
-    .pu-p {
-        font-size: .85em;
-        text-align: justify;
-    }
+    text-align: justify;
 }

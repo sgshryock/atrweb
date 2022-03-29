@@ -1,27 +1,28 @@
 .h {
-    height: 50vh;
-    display: flex;
-    margin: 1vh 0;
-    padding: 2vh;
+    margin: 0;
+    padding: 0;
+    height: 100%;
     border-top: 3px solid #224AB9;
+    /* display: flex; */
 }
 
 .h-left {
-    flex: .75;
-    display: flex;
+    display: none;
+    /* flex: .75;
     align-items: center;
     justify-content: center;
     position: relative;
-    height: 100%;
+    height: 100%; */
 }
 
 .h-right {
-    flex: 1;
+    padding: 2vh 3vw;
+    height: 100%;
+    /* flex: 1;
     display: flex;
     align-items: center;
     justify-content: center;
-    position: relative;
-    height: 100%;
+    position: relative; */
 }
 
 .h-left-wrapper {
@@ -34,29 +35,12 @@
     display: flex;
 }
 
-.h-left-wrapper .h-img {
+/* .h-left-wrapper .h-img {
     border-radius: 100px;
-}
+} */
 
 .h-img {
     width: 100%;
     height: 100%;
     object-fit: contain;
-}
-
-@media screen and (max-width: 480px) {
-    .h {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-    }
-
-    .h-left {
-        display: none;
-    }
-
-    .h-right {
-        height: 100%;
-        padding: 2vh 3vw;
-    }
 }
