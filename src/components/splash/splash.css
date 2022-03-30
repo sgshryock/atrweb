@@ -1,30 +1,17 @@
 .s {
     height: 100%;
     border-top: 3px solid #224AB9;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
 }
 
 .s-wrapper {
-    margin: 3vh 0;
     padding: 0 5vw;
-    /* height: 100%; */
 }
 
 .s-qo {
     margin-top: 3vh;
 }
 
-.s-title {
-    margin: 1vh;
-    font-size: 1.5em;
-    color: #224AB9;
-}
-
 .s-p {
-    margin: 0;
-    padding: 0;
     font-size: .9em;
     text-align: justify;
 }
@@ -33,7 +20,6 @@
     margin: 0;
     padding: 0;
     font-size: .8em;
-    font-weight: bold;
     text-align: left;
     list-style: none;
 }
@@ -45,4 +31,12 @@
     content: '✓ ';
     color: green;
     font-size: medium;
+}
+
+.blueText {
+    color: #224ab9;
+}
+
+.bold {
+    font-weight: bold;
 }

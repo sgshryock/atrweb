@@ -1,22 +1,10 @@
 .i {
-    margin: 0;
-    padding: 0;
     height: 100%;
     border-top: 3px solid #224AB9;
-    /* display: flex;
-    justify-content: center;
-    align-items: center;     */
-
 }
 
 .i-wrapper {
     padding: 0 5vw;
-    height: 100%;
-}
-
-.i-title {
-    font-size: 1.5em;
-    color: #224AB9;
 }
 
 .i-p {
@@ -26,16 +14,17 @@
 
 .i-a {
     text-decoration: none;
-    color: #EF3A40;
     font-weight: bold;
 }
 
 .redText {
     color: #EF3A40;
-    font-weight: bold;
 }
 
 .blueText {
     color:#224AB9;
+}
+
+.bold {
     font-weight: bold;
 }

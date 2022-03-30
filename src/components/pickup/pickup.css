@@ -1,11 +1,6 @@
 .pu {
-    /* margin: 0;
-    padding: 0; */
     height: 100%;
     border-top: 3px solid #224AB9;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
 }
 
 .pu-wrapper {
@@ -13,7 +8,6 @@
 }
 
 .pu-title {
-    font-size: 1.5em;
     color: #224AB9;
 }
 
@@ -23,7 +17,6 @@
 }
 
 .pu-item {
-    font-size: 1em;
     font-weight: bold;
     text-align: left;
     list-style: none;

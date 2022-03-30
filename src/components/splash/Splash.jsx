@@ -6,7 +6,7 @@ const Splash = () => {
     <div className="s">
         <div className="s-wrapper">
             <div className="s-ms">
-                <h1 className="s-title">Our Mission Statement</h1>
+                <h2 className="s-title blueText">Our Mission Statement</h2>
                 <p className="s-p">
                     We are committed to provide a Quality service at competitive prices,  
                     that meets or exceeds Customer's expectations. We are devoted to the continuous 
@@ -14,8 +14,8 @@ const Splash = () => {
                 </p>
             </div>
             <div className="s-qo">
-                <h1 className="s-title">Quality Objectives</h1>
-                <ul className="s-list">
+                <h2 className="s-title blueText">Quality Objectives</h2>
+                <ul className="s-list bold">
                     <li className="s-item">Maintain a high level of Customer satisfaction.</li>
                     <li className="s-item">Deliver a defect free product and service.</li>
                     <li className="s-item">Continuous improvement of our operations and efficiencies.</li>
