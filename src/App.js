@@ -2,7 +2,6 @@ import './App.css';
 import Header from './components/header/Header'
 import Splash from './components/splash/Splash'
 import Repairs from './components/repairs/Repairs';
-import Pricing from './components/pricing/Pricing';
 import Invoicing from './components/invoicing/Invoicing';
 import Pickup from './components/pickup/Pickup';
 import Warranty from './components/warranty/Warranty';
@@ -16,7 +15,6 @@ function App() {
       <Header />
       <Splash />
       <Repairs />
-      {/* <Pricing /> */}
       <Pickup />
       <Invoicing />
       <Warranty />
