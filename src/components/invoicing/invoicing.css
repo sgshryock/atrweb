@@ -28,3 +28,48 @@
 .bold {
     font-weight: bold;
 }
+
+/* Small lanscape phones */
+@media (min-width: 575.98px) { 
+    .i {
+        font-size: 110%;
+    }
+    
+    .i-wrapper {
+        padding: 0 7vw;
+    }
+
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (min-width: 767.98px) { 
+    .i {
+        font-size: 130%;
+    }
+ }
+
+/* Medium devices (tablets, less than 992px) */
+@media (min-width: 991.98px) { 
+    .i {
+        font-size: 150%;
+    }
+
+    .i-wrapper {
+        padding: 0 15vw;
+    }
+ }
+
+/* Large devices (desktops, less than 1200px) */
+@media (min-width: 1199.98px) { 
+    .i {
+        font-size: 175%;
+    }
+
+    .i-wrapper {
+        padding: 0 20vw;
+    }
+
+    .i-p {
+        text-align: center;
+    }
+ }

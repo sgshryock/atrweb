@@ -13,7 +13,8 @@ const Invoicing = () => {
               market labor rates or replacement parts.</span> 
               </p>
               <p className="i-p">
-              For most recent pricing information, contact us via phone at: <a href="tel: 3522075716" className="i-a redText">352-207-5716</a>
+              For the most recent pricing information, call us at:&nbsp;
+              <a href="tel: 3522075716" className="i-a redText">352-207-5716</a>
               </p>
               <a href={Pricing} className="i-a blueText" target="_blank">Click Here for a Current Rates Sheet</a>
               <p className="i-p">

@@ -40,3 +40,51 @@
 .bold {
     font-weight: bold;
 }
+
+/* Small lanscape phones */
+@media (min-width: 575.98px) { 
+    .s {
+        font-size: 110%;
+    }
+    
+    .s-wrapper {
+        padding: 0 7vw;
+    }
+    
+    .s-list {
+        padding-bottom: 4vh;
+    }
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (min-width: 767.98px) { 
+    .s {
+        font-size: 130%;
+    }
+ }
+
+/* Medium devices (tablets, less than 992px) */
+@media (min-width: 991.98px) { 
+    .s {
+        font-size: 150%;
+    }
+
+    .s-wrapper {
+        padding: 0 15vw;
+    }
+ }
+
+/* Large devices (desktops, less than 1200px) */
+@media (min-width: 1199.98px) { 
+    .s {
+        font-size: 175%;
+    }
+
+    .s-wrapper {
+        padding: 0 20vw;
+    }
+
+    .s-item::before {
+        font-size: x-large;
+    }
+ }

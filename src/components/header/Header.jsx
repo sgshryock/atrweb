@@ -1,23 +1,21 @@
-import React from 'react'
-import './header.css'
-import Repair from '../../img/repair.jpeg'
-import Info from '../../img/ATR_info.png'
+import React from "react";
+import "./header.css";
+import Repair from "../../img/repair.jpeg";
+import Info from "../../img/ATR_info.png";
 
 const Header = () => {
   return (
     <div className="h">
+      <div className="h-wrapper">
         <div className="h-left">
-            <div className="h-left-wrapper">
-                <img src={Repair} alt="" className="h-img" />
-            </div>
+          <img src={Repair} alt="" className="h-img left" />
         </div>
         <div className="h-right">
-            <div className="h-right-wrapper">
-                <img src={Info} alt="" className="h-img" />
-            </div>
+          <img src={Info} alt="" className="h-img right" />
         </div>
+      </div>
     </div>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;
