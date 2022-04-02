@@ -31,6 +31,8 @@ const About = () => {
               info@atrairtoolrepair.com
             </a>
             <br/>
+            <br/>
+            <br/>
           </span>
         </h2>
       </div>
