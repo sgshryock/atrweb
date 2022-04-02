@@ -7,7 +7,9 @@ const About = () => {
       <div className="a-wrapper">
         <h2 className="a-title blueText">About Us</h2>
         <p className="a-p">
-          <span className="redText"><strong>ATR Air Tools Repair LLC&nbsp;</strong></span>
+          <span className="redText">
+            <strong>ATR Air Tools Repair LLC&nbsp;</strong>
+          </span>
           is a recently formed, family owned & operated business, located in
           Silver Springs Florida. We repair all brands and types of handheld
           pneumatic (Air) tools. We do not have a store front; instead, ATR
@@ -20,7 +22,17 @@ const About = () => {
           our Customers. We look forward to offering our services to meet your
           business needs.
         </p>
-        <h2 className="a-sig"><span className="blueText">- Victor J. Payette Jr.</span></h2>
+        <h2 className="a-sig">
+          <span className="blueText">
+            - Victor J. Payette Jr.
+            <br />
+            &nbsp; &nbsp;
+            <a href="mailto:info@atrairtoolrepair.com" className="a-email">
+              info@atrairtoolrepair.com
+            </a>
+            <br/>
+          </span>
+        </h2>
       </div>
     </div>
   );

@@ -17,6 +17,10 @@
     font-weight: bold;
 }
 
+.a-email {
+    text-decoration: none;
+}
+
 .redText {
     color: #EF3A40;
 }
