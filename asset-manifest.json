@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/atrweb/static/css/main.fa0938e7.css",
-    "main.js": "/atrweb/static/js/main.75710eb3.js",
+    "main.css": "/atrweb/static/css/main.92dfeef5.css",
+    "main.js": "/atrweb/static/js/main.ac4aefd4.js",
     "static/js/787.91ac6b01.chunk.js": "/atrweb/static/js/787.91ac6b01.chunk.js",
     "static/media/ATR_info.png": "/atrweb/static/media/ATR_info.1b24e44186ab0e09e0b8.png",
     "static/media/pricing_custom.pdf": "/atrweb/static/media/pricing_custom.51bec7c3a7cd1352db1b.pdf",
     "static/media/repair.jpeg": "/atrweb/static/media/repair.098ad94ae9505536764d.jpeg",
     "index.html": "/atrweb/index.html",
-    "main.fa0938e7.css.map": "/atrweb/static/css/main.fa0938e7.css.map",
-    "main.75710eb3.js.map": "/atrweb/static/js/main.75710eb3.js.map",
+    "main.92dfeef5.css.map": "/atrweb/static/css/main.92dfeef5.css.map",
+    "main.ac4aefd4.js.map": "/atrweb/static/js/main.ac4aefd4.js.map",
     "787.91ac6b01.chunk.js.map": "/atrweb/static/js/787.91ac6b01.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa0938e7.css",
-    "static/js/main.75710eb3.js"
+    "static/css/main.92dfeef5.css",
+    "static/js/main.ac4aefd4.js"
   ]
 }
