@@ -1,3 +1,5 @@
+import { ThemeProvider } from "@emotion/react";
+import theme from './theme'
 import './App.css';
 import Header from './components/header/Header'
 import Splash from './components/splash/Splash'
@@ -10,6 +12,7 @@ import Fab from './components/fab/Fab';
 
 function App() {
   return (
+    <ThemeProvider theme={theme}>
     <div className="App">
       <Fab />
       <Header />
@@ -20,6 +23,7 @@ function App() {
       <Warranty />
       <About />
     </div>
+    </ThemeProvider>
   );
 }
 
