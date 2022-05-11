@@ -15,7 +15,7 @@ const Pickup = () => {
           <li className="pu-item">Item Returns</li>
           <p className="pu-p">
             ATR provides the same weekly service at customer facilities for drop
-            off of air tools that have compelted their repair process, or need
+            off of air tools that have completed their repair process, or need
             to be returned if the customer does not wish to proceed with a
             quoted repair.
           </p>
