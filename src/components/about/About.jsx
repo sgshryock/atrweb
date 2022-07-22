@@ -24,7 +24,7 @@ const About = () => {
         </p>
         <h2 className="a-sig">
           <span className="blueText">
-            - Victor J. Payette Jr.
+            - The ATR Air Tool Repair Team
             <br />
             &nbsp; &nbsp;
             <a href="mailto:info@atrairtoolrepair.com" className="a-email">
