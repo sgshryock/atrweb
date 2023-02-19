@@ -11,7 +11,7 @@ const Warranty = () => {
           returned to the customer.
         </p>
         <p className="w-pn bold">
-          *ATR reserves the right to to deny repair warranty coverage due to
+          *ATR reserves the right to deny repair warranty coverage due to
           physical damage, neglect, improper use, or lack of normal maintenance
           by the customer.
         </p>
