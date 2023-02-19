@@ -1,6 +1,6 @@
 import React from "react";
 import "./header.css";
-import Repair from "../../img/repair.jpeg";
+import Tools from "../../img/toolsImg.png";
 import Info from "../../img/ATR_info.png";
 
 const Header = () => {
@@ -8,7 +8,7 @@ const Header = () => {
     <div className="h">
       <div className="h-wrapper">
         <div className="h-left">
-          <img src={Repair} alt="" className="h-img left" />
+          <img src={Tools} alt="" className="h-img left" />
         </div>
         <div className="h-right">
           <img src={Info} alt="" className="h-img right" />
